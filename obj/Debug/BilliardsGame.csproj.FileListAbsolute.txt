@@ -1,0 +1,20 @@
+C:\Users\Amiepc\source\repos\BilliardsGame\bin\Debug\BilliardsGame.exe.config
+C:\Users\Amiepc\source\repos\BilliardsGame\bin\Debug\BilliardsGame.exe
+C:\Users\Amiepc\source\repos\BilliardsGame\bin\Debug\BilliardsGame.pdb
+C:\Users\Amiepc\source\repos\BilliardsGame\obj\Debug\BilliardsGame.csproj.AssemblyReference.cache
+C:\Users\Amiepc\source\repos\BilliardsGame\obj\Debug\BilliardsGame.Form1.resources
+C:\Users\Amiepc\source\repos\BilliardsGame\obj\Debug\BilliardsGame.Properties.Resources.resources
+C:\Users\Amiepc\source\repos\BilliardsGame\obj\Debug\BilliardsGame.csproj.GenerateResource.cache
+C:\Users\Amiepc\source\repos\BilliardsGame\obj\Debug\BilliardsGame.csproj.CoreCompileInputs.cache
+C:\Users\Amiepc\source\repos\BilliardsGame\obj\Debug\BilliardsGame.exe
+C:\Users\Amiepc\source\repos\BilliardsGame\obj\Debug\BilliardsGame.pdb
+C:\Users\Amiepc\Desktop\game projects\BilliardsGame\bin\Debug\BilliardsGame.exe.config
+C:\Users\Amiepc\Desktop\game projects\BilliardsGame\bin\Debug\BilliardsGame.exe
+C:\Users\Amiepc\Desktop\game projects\BilliardsGame\bin\Debug\BilliardsGame.pdb
+C:\Users\Amiepc\Desktop\game projects\BilliardsGame\obj\Debug\BilliardsGame.csproj.AssemblyReference.cache
+C:\Users\Amiepc\Desktop\game projects\BilliardsGame\obj\Debug\BilliardsGame.Form1.resources
+C:\Users\Amiepc\Desktop\game projects\BilliardsGame\obj\Debug\BilliardsGame.Properties.Resources.resources
+C:\Users\Amiepc\Desktop\game projects\BilliardsGame\obj\Debug\BilliardsGame.csproj.GenerateResource.cache
+C:\Users\Amiepc\Desktop\game projects\BilliardsGame\obj\Debug\BilliardsGame.csproj.CoreCompileInputs.cache
+C:\Users\Amiepc\Desktop\game projects\BilliardsGame\obj\Debug\BilliardsGame.exe
+C:\Users\Amiepc\Desktop\game projects\BilliardsGame\obj\Debug\BilliardsGame.pdb
